@@ -39,7 +39,7 @@
 
 //  any number is Truthy other than 0 ... any string is truthy other than Empty String
 // const name = "0";
-let name = false;
+let name = "";
 console.log(name);
 
 
